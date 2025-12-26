@@ -26,3 +26,19 @@ BridgeLabz-Training/
 │   └── scenario-based-codebase/
 └── README.md
 ```
+
+### Day 2 – Programming Elements  
+**Date:** 17-Dec-2025
+
+- Variables, literals, primitive data types.
+- Operators and expressions.
+- Basic I/O using `Scanner`.
+- Practiced and pushed programs.
+
+🔗  **Code Link:**  
+👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
+
+---
+
+
+
