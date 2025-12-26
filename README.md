@@ -40,5 +40,20 @@ BridgeLabz-Training/
 
 ---
 
+### Day 3 – Control Flows  
+**Date:** 18-Dec-2025
+
+- Conditional logic: `if/else`, `switch`, ternary.
+- Loops: `for`, `while`, `do-while`, `for-each`.
+- Control statements: `break`, `continue`.
+- Solved practice problems and pushed solutions.
+
+🔗 **Code Link:**  
+👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows
+
+---
+
+
+
 
 
