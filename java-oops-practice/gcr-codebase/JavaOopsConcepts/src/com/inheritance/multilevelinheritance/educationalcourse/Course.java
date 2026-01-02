@@ -1,0 +1,21 @@
+package com.inheritance.multilevelinheritance.educationalcourse;
+
+public class Course {
+    protected String courseName;
+    protected int duration;   // in hours
+
+    public Course(String courseName, int duration) {
+        this.courseName = courseName;
+        this.duration = duration;
+    }
+
+    public String getCourseType() {
+        return "Basic Course";
+    }
+
+    public void display() {
+        System.out.println("Course Name : " + courseName);
+        System.out.println("Duration    : " + duration + " hours");
+        System.out.println("Type        : " + getCourseType());
+    }
+}
