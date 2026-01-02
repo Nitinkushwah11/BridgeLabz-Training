@@ -52,7 +52,15 @@ BridgeLabz-Training/
 👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows
 
 ---
+📅 Day 4 – Arrays
+Date: 19-Dec-2025
 
+🔹 Topics Covered
+1D & 2D arrays
+Array traversal
+Array-based problem solving
+🔗 Code Link:
+👉https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
 
 
 
