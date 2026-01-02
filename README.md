@@ -151,4 +151,14 @@ Problem-solving patterns
 🔗 Code Link:
 👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase
 
+------
 
+## 📅 Day 11 – scenario based Questions
+**Date:** : 29-Dec-2025
+
+### 🔹 Focus Areas
+
+- Solved Scenario based problems
+
+🔗 **Code Link:**  
+👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
