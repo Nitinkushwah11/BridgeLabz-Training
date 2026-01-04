@@ -1,0 +1,13 @@
+package com.encapsulation_polymorphism_interface_abstractclass.librarymanagementsystem;
+
+class Magazine extends LibraryItem {
+
+    public Magazine(int id, String title, String author) {
+        super(id, title, author);
+    }
+
+    @Override
+    public int getLoanDuration() {
+        return 7;   // 7 days
+    }
+}
