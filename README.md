@@ -59,3 +59,18 @@ The goal of this practice is to build a strong foundation in **core Java OOP pri
 👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeywords
 
 ---
+
+📅 Day 4 – Object Oriented Design Principles (UML Diagrams)
+
+Date: 30-Dec-2026
+
+Concepts Covered
+
+Class Diagrams – representing classes, attributes & relationships
+
+Object Diagrams – showing real-time object instances
+
+Sequence Diagrams – modelling method call flow between objects
+
+🔗 Code Link:
+👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling
