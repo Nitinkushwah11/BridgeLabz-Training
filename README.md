@@ -192,4 +192,92 @@ Sequence Diagrams – modelling method call flow between objects
 
 🔗 **Code Link:**  
 👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice
+---
+### Day 8 – Ride-Hailing & Banking Applications  
+**Date:** 03-Jan-2026
+
+- Building complete applications with multiple classes.
+- Implementing business logic with OOP principles.
+- Interface-driven development.
+
+**Projects Completed:**
+
+**6. CabbyGo – A Ride-Hailing App**
+- Classes: Vehicle, Driver, Mini, Sedan, SUV
+- Interface: IRideService with bookRide(), endRide()
+- Inheritance: Mini, Sedan, SUV extend Vehicle
+- Encapsulation: Private location, fare, rating
+- Operators: baseFare + distance × rate
+- Polymorphism: Different vehicle types
+
+**Key Features:**
+- Vehicle management (vehicleNumber, capacity, type)
+- Driver management (name, licenseNumber, rating)
+- Fare calculation system
+- Ride booking and completion
+- Access modifiers protecting sensitive data
+
+**7. MyBank – Managing Customer Accounts**
+- Classes: Account, SavingsAccount, CurrentAccount
+- Interface: ITransaction with deposit(), withdraw(), checkBalance()
+- Inheritance: Account types extend base Account
+- Encapsulation: Private balance with method-only modification
+- Operators: balance × interestRate / 100
+- Polymorphism: Different interest calculation by account type
+
+**Key Features:**
+- Account initialization with/without opening balance
+- Transaction operations (deposit, withdraw)
+- Interest calculation
+- Balance protection
+- Constructor overloading
+
+🔗 **Code Link:**  
+👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src/com
+
+---
+
+### Day 9 – College Portal & E-Commerce Applications  
+**Date:** 05-Jan-2026
+
+- Building comprehensive management systems.
+- Advanced polymorphism and interface implementation.
+- Complex class relationships and interactions.
+
+**Projects Completed:**
+
+**8. CampusConnect – College Information System**
+- Base Class: Person (name, email, id)
+- Derived Classes: Student, Faculty extend Person
+- Interface: ICourseActions with enrollCourse(), dropCourse()
+- Course class: manages students and faculty lists
+- Encapsulation: Private student grades
+- Operators: GPA calculation from grades
+- Polymorphism: printDetails() works differently for Student and Faculty
+
+**Key Features:**
+- Student enrollment and course management
+- Faculty assignment to courses
+- GPA calculation system
+- Access control for sensitive academic data
+- Constructor-based initialization
+
+**9. SwiftCart – The Grocery Shopping App**
+- Base Class: Product (name, price, category)
+- Derived Classes: PerishableProduct, NonPerishableProduct
+- Cart class: manages product list and totalPrice
+- Interface: ICheckout with generateBill(), applyDiscount()
+- Encapsulation: Protected price calculations
+- Operators: price × quantity, totalPrice - coupon
+- Polymorphism: Discount varies by product type
+
+**Key Features:**
+- Cart creation with/without pre-selected items
+- Constructor overloading for flexibility
+- Product type-based discount logic
+- Protected price update (Cart access only)
+- Bill generation with itemized list
+🔗 **Code Link:**  
+👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src/com
+
 
