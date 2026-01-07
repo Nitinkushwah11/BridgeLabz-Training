@@ -209,3 +209,29 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts
+----
+```
+java-oops-practice/
+├── gcr-codebase/
+│   └── JavaOopsConcepts/
+│       └── src/
+│           └── com/
+├── leet-codebase/
+├── scenario-based-questions/
+└── README.md
+```
+## 📅 Day 3 – `this`, `static`, `final` & `instanceof`  
+**Date:** 29-Dec-2025
+
+### Concepts Covered
+- `this`, `static`, `final` and `instanceof` keywords  
+- Object behavior & memory sharing  
+- Scenario-based OOP practice problems  
+- Eclipse debugging techniques  
+
+🔗 **OOP Keywords Practice:**  
+👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeywords
+
+🔗 **Scenario-Based Problems:**  
+👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
+
