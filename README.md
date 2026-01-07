@@ -112,7 +112,7 @@ BridgeLabz-Training/
 
 ---
 
-## 📅 Day 7 – Built-in Functions  
+Built-in Functions  
 **Date:** 23-Dec-2025  
 
 ### 🔹 Topics Covered
@@ -126,7 +126,7 @@ BridgeLabz-Training/
 
 ---
 
-## 📅 Day 8 – Scenario-Based Problems & README Updates  
+ Scenario-Based Problems & README Updates  
 **Date:** 24-Dec-2025  
 
 ### 🔹 Programs Implemented
@@ -138,7 +138,7 @@ BridgeLabz-Training/
 
 ---
 
-## 📅 Day 9 – Scenario-Based + LeetCode Problems  
+ Scenario-Based + LeetCode Problems  
 **Date:** 26-Dec-2025  
 
 ### 🔹 Scenario-Based Programs
@@ -157,7 +157,7 @@ BridgeLabz-Training/
 
 ---
 
-## 📅 Day 10 – LeetCode Problems  
+ LeetCode Problems  
 **Date:** 27-Dec-2025  
 
 ### 🔹 Focus Areas
