@@ -280,4 +280,83 @@ Sequence Diagrams – modelling method call flow between objects
 🔗 **Code Link:**  
 👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src/com
 
+---
+
+### Day 10 – Learning & Fitness Management Applications  
+**Date:** 06-Jan-2026
+
+- Building comprehensive learning and fitness tracking systems.
+- Implementing virtual pet care with state management.
+- Event management platform with scheduling logic.
+
+**Projects Completed:**
+
+**10. EduMentor – Online Tutoring Platform**
+- Base Class: Person (name, email, userId)
+- Derived Classes: Student, Tutor extend Person
+- Interface: IBookable with bookSession(), cancelSession()
+- Session class: manages tutor-student sessions
+- Encapsulation: Private hourlyRate and rating
+- Operators: sessionHours × hourlyRate, payment - platformFee
+- Polymorphism: Different session types and rates
+
+**Key Features:**
+- Tutor management with ratings and specializations
+- Session booking system
+- Payment calculation with platform fees
+- Constructor-based tutor initialization
+- Protected rating updates
+
+**11. FitTrack – Personal Fitness Tracker**
+- Base Class: Activity (activityId, name, duration, caloriesBurned)
+- Derived Classes: Running, Cycling, Swimming, Yoga
+- Interface: ITrackable with recordActivity(), displayProgress()
+- UserProfile class: manages user goals and activities
+- Encapsulation: Private weight, age, BMI calculations
+- Operators: totalCalories, distance × pace calculations
+- Polymorphism: Different calorie calculation per activity type
+
+**Key Features:**
+- Activity tracking with different exercise types
+- Calorie burn calculations specific to activity
+- User profile with fitness goals
+- Progress tracking and display
+- Constructor overloading for activity creation
+
+**12. PetPal – Virtual Pet Care App**
+- Base Class: Pet (name, type, age)
+- Derived Classes: Dog, Cat, Bird extend Pet
+- Interface: IInteractable with feed(), play(), sleep()
+- Encapsulation: Private hunger, mood, energy levels
+- Operators: Increase/decrease energy and hunger
+- Polymorphism: makeSound() behaves differently per pet
+- Random or user-specified pet initialization
+
+**Key Features:**
+- Virtual pet adoption and care
+- State management (hunger, mood, energy)
+- Interactive actions (feed, play, sleep)
+- Pet-specific behaviors
+- Protected state modification methods
+
+**13. EventEase – Event Management Platform**
+- Base Class: Event (eventName, location, date, attendees)
+- Derived Classes: BirthdayEvent, ConferenceEvent
+- User class: represents event organizers
+- Interface: ISchedulable with schedule(), reschedule(), cancel()
+- Encapsulation: Final eventId (immutable), private pricing
+- Operators: venue + services - discounts
+- Polymorphism: Different scheduling behavior per event type
+
+**Key Features:**
+- Event creation with/without packages (catering, decoration)
+- Cost calculation system
+- Event scheduling and rescheduling
+- Protected sensitive user data
+- Constructor overloading for package options
+
+🔗 **Code Link:**  
+👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src/com
+
+---
 
