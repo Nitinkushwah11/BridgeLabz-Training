@@ -97,6 +97,7 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉  https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/java-methods
+
 ---
 
 ## 📅 Day 6 – Strings  
@@ -196,6 +197,7 @@ Built-in Functions
 
 🔗 **Code Link:**  
 👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com
+
 ---
 
 ## 📅 Day 2 – Constructors & Access Modifiers  
@@ -209,6 +211,7 @@ Built-in Functions
 
 🔗 **Code Link:**  
 👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts
+
 ----
 ```
 java-oops-practice/
@@ -258,6 +261,7 @@ java-oops-practice/
 
 🔗 **Code Link:**  
 👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com
+
 ---
 
 ### Day 6 – Encapsulation, Polymorphism, Interface & Abstract Classes
@@ -376,3 +380,4 @@ java-oops-practice/
 👉 [ParkEase](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src/com/parkease)
 
 ---
+
