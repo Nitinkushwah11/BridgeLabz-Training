@@ -330,31 +330,49 @@ java-oops-practice/
 **Problems Solved:**
 
 1. **Bubble Sort - Student Marks**
-   - [Q1_BubbleSortStudentMarks.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting/BubbleSortStudentMarks.java)
+   - [BubbleSortStudentMarks.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting/BubbleSortStudentMarks.java)
    - Time Complexity: O(n²), Space: O(1)
 
 2. **Insertion Sort - Employee IDs**
-   - [Q2_InsertionSortEmployeeIDs.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting/InsertionSortEmployeeIDs.java)
+   - [InsertionSortEmployeeIDs.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting/InsertionSortEmployeeIDs.java)
    - Time Complexity: O(n²), Space: O(1)
 
 3. **Merge Sort - Book Prices**
-   - [Q3_MergeSortBookPrices.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting/MergeSortBookPrices.java)
+   - [MergeSortBookPrices.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting/MergeSortBookPrices.java)
    - Time Complexity: O(n log n), Space: O(n)
 
 4. **Quick Sort - Product Prices**
-   - [Q4_QuickSortProductPrices.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting/QuickSortProductPrices.java)
+   - [QuickSortProductPrices.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting/QuickSortProductPrices.java)
    - Time Complexity: O(n log n) average, Space: O(log n)
 
 5. **Selection Sort - Exam Scores**
-   - [Q5_SelectionSortExamScores.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting/SelectionSortExamScores.java)
+   - [SelectionSortExamScores.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting/SelectionSortExamScores.java)
    - Time Complexity: O(n²), Space: O(1)
 
 6. **Heap Sort - Job Applicant Salaries**
-   - [Q6_HeapSortSalary.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting/HeapSortSalary.java)
+   - [HeapSortSalary.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting/HeapSortSalary.java)
    - Time Complexity: O(n log n), Space: O(1)
 
 7. **Counting Sort - Student Ages**
-   - [Q7_CountingSortStudentAges.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting/CountingSortStudentAges.java)
+   - [CountingSortStudentAges.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting/CountingSortStudentAges.java)
    - Time Complexity: O(n + k), Space: O(k)
+
+---
+### Day 4 (07-Jan-2026): String Operations, File I/O, Search Algorithms & OOP Practice
+
+**DSA Topics:**
+- StringBuffer/StringBuilder operations and performance comparison
+- FileReader and InputStreamReader for file I/O operations
+- Linear Search and Binary Search algorithm implementations
+
+**OOP Practice:**
+- BookBazaar - Digital bookstore system with inventory and orders
+- ParkEase - Smart parking management with slot tracking
+
+🔗 **Code Links:**  
+👉 [StringBuffer & FileReader](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linearandbinary/stringbuffer)  
+👉 [Linear & Binary Search](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linearandbinary)  
+👉 [BookBazaar](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src/com/bookbazaar)  
+👉 [ParkEase](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src/com/parkease)
 
 ---
