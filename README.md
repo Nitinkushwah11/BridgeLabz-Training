@@ -86,3 +86,48 @@
    - Time Complexity: O(n + k), Space: O(k)
 
 ---
+
+### Day 4 (07-Jan-2026): StringBuffer, FileReader and Search Algorithms
+
+**Topics Covered:**
+- StringBuilder vs StringBuffer
+- FileReader and InputStreamReader
+- Linear Search Algorithm
+- Binary Search Algorithm
+
+**Programs Implemented:**
+
+#### StringBuffer Practice
+1. [ReverseString.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linearandbinary/stringbuffer/ReverseStringUsingStringBuilder.java) - Reverse string using StringBuffer
+2. [RemoveDuplicateCharacters.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linearandbinary/stringbuffer/RemoveDuplicatesUsingStringBuilder.java
+) - Remove duplicate characters from string
+3. [ConcatenateMultipleStrings.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linearandbinary/stringbuffer/ConcatenateStringsUsingStringBuffer.java) - String concatenation performance
+4. [CompareStringBuilderStringBuffer.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linearandbinary/stringbuffer/CompareStringBufferAndStringBuilder.java
+) - Performance comparison
+
+#### FileReader Practice
+1. [ReadFileLineByLine.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linearandbinary/filereader/ReadFileLineByLine.java) - Read text file line by line
+2. [CountWordOccurrenceInFile.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linearandbinary/filereader/CountWordOccurrenceInFile.java) - Count word occurrences in file
+3. [ConvertByteToCharacterStream.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linearandbinary/filereader/ConvertByteToCharacterStream.java) - Byte to character stream conversion
+4. [ReadConsoleWriteToFile.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linearandbinary/filereader/ReadConsoleWriteToFile.java) - Console input to file writer
+5. [ChallengeCompareAll.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linearandbinary/filereader/ChallengeCompareAll.java) - Performance comparison challenge
+
+#### Linear Search
+1. [SearchFirstNegativeNumber.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linearandbinary/linearsearch/SearchFirstNegativeNumber.java) - Find first negative in array
+2. [SearchWordInSentences.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linearandbinary/linearsearch/SearchFirstNegativeNumber.java) - Search word in sentence array
+3. [ChallengeLinearAndBinarySearch.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linearandbinary/linearsearch/ChallengeLinearAndBinarySearch.java) - Linear vs Binary performance
+
+#### Binary Search
+1. [FindRotationPoint.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linearandbinary/binarysearch/FindRotationPoint.java) - Rotation point in sorted array
+2. [FindPeakElement.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linearandbinary/binarysearch/FindPeakElement.java) - Peak element in array
+3. [SearchIn2DMatrix.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linearandbinary/binarysearch/SearchIn2DMatrix.java) - 2D matrix search
+4. [FindFirstAndLastOccurrence.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/blob/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linearandbinary/binarysearch/FindFirstAndLastOccurrence.java) - First and last occurrence
+
+**Key Concepts Learned:**
+- Thread-safe vs non-thread-safe string operations
+- File I/O with character and byte streams
+- Linear search: O(n) time complexity
+- Binary search: O(log n) time complexity
+- 2D matrix search optimization
+
+---
