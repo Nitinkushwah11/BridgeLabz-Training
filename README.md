@@ -380,4 +380,21 @@ java-oops-practice/
 👉 [ParkEase](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src/com/parkease)
 
 ---
+### Day 5 (08-Jan-2026): Algorithm Runtime Analysis & Advanced OOP Systems
 
+**DSA Topics - Algorithm Performance Comparison:**
+- Linear Search vs Binary Search performance on large datasets
+- Bubble Sort vs Merge Sort vs Quick Sort efficiency comparison
+- String vs StringBuilder vs StringBuffer concatenation performance
+- FileReader vs InputStreamReader for large file reading
+- Recursive vs Iterative Fibonacci computation analysis
+- Array vs HashSet vs TreeSet search performance comparison
+
+**OOP Practice - Complex Scenario-Based Projects:**
+- MediStore - Pharmacy inventory system with expiry tracking and sales
+- TourMate - Travel itinerary planner with domestic and international trips
+
+🔗 **Code Links:**  
+👉 [Algorithm Runtime Analysis](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/algoruntimeanalysis)  
+👉 [MediStore](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src/com/medistore)  
+👉 [TourMate](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src/com/tourmate)
