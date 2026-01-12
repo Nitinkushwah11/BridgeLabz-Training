@@ -472,3 +472,19 @@ Sequence Diagrams – modelling method call flow between objects
 👉 [TourMate](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src/com/tourmate)
 
 ---
+### Day 9 – Scenario Implementations
+**Date:** 09-Jan-2026
+
+- Implemented three scenario-based OOP programs and added them to the repository on branch `java-oops-practice`:
+  - Artify – Digital Art Marketplace
+    - Path: java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/artify
+    - Files added: IPurchasable.java, Artwork.java, DigitalArt.java, PrintArt.java, User.java, ArtifyDemo.java
+  - FoodLoop – Restaurant Ordering System
+    - Path: java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/foodloop
+    - Files added: IOrderable.java, FoodItem.java, VegItem.java, NonVegItem.java, Order.java, FoodLoopDemo.java
+  - SkillForge – Online Learning Portal
+    - Path: java-oops-practice/scenario-based-questions/scenarioBasedQuestions/src/com/scenariobasedquestion/skillforge
+    - Files added: ICertifiable.java, User.java, Student.java, Instructor.java, Course.java, SkillForgeDemo.java
+
+
+---
