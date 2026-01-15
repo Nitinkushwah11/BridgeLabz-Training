@@ -1,3 +1,4 @@
+
 # BridgeLabz-Training
 
 Welcome to my **BridgeLabz Training Repository** 👋  
@@ -398,3 +399,67 @@ java-oops-practice/
 👉 [Algorithm Runtime Analysis](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/algoruntimeanalysis)  
 👉 [MediStore](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src/com/medistore)  
 👉 [TourMate](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src/com/tourmate)
+
+
+-----
+
+
+ ### Day 6 : Scenario-Based DSA Applications
+
+**Topics Covered:**
+- Real-world data structure implementations
+- HashMap + LinkedList combination
+- Doubly LinkedList + Stack for navigation
+- Circular LinkedList for round-robin systems
+
+**Scenario-Based Projects Implemented:**
+
+#### 1. BookShelf - Library Organizer System
+**Data Structures Used:** HashMap + LinkedList
+**Location:** [bookshelf](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/bookshelf)
+
+**Components:**
+- [Book.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/bookshelf/Book.java) - Book data model
+- [BookNode.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/bookshelf/BookNode.java) - LinkedList node
+- [BookList.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/bookshelf/BookList.java) - Custom LinkedList with add/remove operations
+- [Library.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/bookshelf/Library.java) - HashMap-based genre catalog
+- [LibrarySystem.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/bookshelf/LibrarySystem.java) - Demo application
+
+**Features:**
+- Genre-wise book organization using HashMap
+- Dynamic book insertion/deletion using LinkedList
+- Efficient book borrowing and returning
+- Catalog display by genre
+
+#### 2. BrowserBuddy - Tab History Manager
+**Data Structures Used:** Doubly LinkedList + Stack
+**Location:** [broswerbuddy](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/browserbuddy)
+
+**Features:**
+- Page visit tracking with doubly linked list
+- Back and forward navigation
+- Closed tab storage using stack (LIFO)
+- Reopen recently closed tabs
+- Memory-efficient tab management
+
+#### 3. AmbulanceRoute - Emergency Patient Navigation
+**Data Structures Used:** Circular LinkedList
+**Location:** [ambulance](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/ambulanceroute)
+
+**Features:**
+- Circular hospital unit routing (Emergency  Radiology  Surgery  ICU  Emergency)
+- Find nearest available unit using circular traversal
+- Unit availability tracking
+- Dynamic unit removal for maintenance
+- Patient redirection in circular path
+
+**Key Concepts Learned:**
+- Combining multiple data structures for complex problems
+- HashMap for O(1) lookup with LinkedList for ordering
+- Doubly LinkedList for bidirectional traversal
+- Stack for LIFO operations (closed tabs)
+- Circular LinkedList for round-robin scheduling
+- Real-world application design patterns
+- Memory-efficient pointer-based navigation
+
+---
