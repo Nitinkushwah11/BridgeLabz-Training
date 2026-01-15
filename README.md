@@ -480,3 +480,29 @@ java-oops-practice/
 4. **TrafficManager** - Roundabout Vehicle Flow (Circular LinkedList + Queue)
 
 ---
+
+### Day 8 : Complex Scenario-Based DSA Projects
+
+**Topics Covered:**
+- Singly Linked List for delivery tracking
+- Stack + HashMap for exam navigation
+- Queue + HashMap for checkout systems
+
+**Projects Implemented:** [scenario-based](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com)
+
+1. **[SmartCheckout](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/smartcheckout)** - Multi-Counter Checkout System
+   - Queue-based customer management
+   - HashMap cart implementation
+   - Store inventory tracking with HashMap
+
+2. **[ParcelTracker](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/parcelTracker)** - Delivery Chain Management
+   - Singly Linked List for stage tracking
+   - Custom checkpoints and timestamps
+   - Lost/missing parcel handling
+
+3. **[ExamProctor](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/examproctor)** - Online Exam Review System
+   - Stack-based navigation tracking
+   - HashMap for answer storage
+   - Auto-scoring function with polymorphism
+
+---
