@@ -250,3 +250,19 @@
 
 ---
 
+### Day 7 (12-Jan-2026): Advanced Scenario-Based DSA Problems
+
+**Topics Covered:**
+- Queue + HashMap + PriorityQueue
+- Doubly LinkedList navigation systems
+- Stack-based undo/redo mechanisms
+- Circular LinkedList + Queue combinations
+
+**Scenario-Based Projects:** [scenario-based](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com)
+
+1. **CallCenter** - Customer Queue Manager (Queue + HashMap + PriorityQueue)
+2. **TrainCompanion** - Compartment Navigation System (Doubly LinkedList)
+3. **TextEditor** - Undo/Redo Functionality (Stack)
+4. **TrafficManager** - Roundabout Vehicle Flow (Circular LinkedList + Queue)
+
+---
