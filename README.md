@@ -189,3 +189,106 @@
 - Hash-based vs tree-based data structures
 - Choosing right algorithm for dataset size
 - Amortized analysis in string operations
+
+- ### Day 6 : Scenario-Based DSA Applications
+
+**Topics Covered:**
+- Real-world data structure implementations
+- HashMap + LinkedList combination
+- Doubly LinkedList + Stack for navigation
+- Circular LinkedList for round-robin systems
+
+**Scenario-Based Projects Implemented:**
+
+#### 1. BookShelf - Library Organizer System
+**Data Structures Used:** HashMap + LinkedList
+**Location:** [bookshelf](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/bookshelf)
+
+**Components:**
+- [Book.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/bookshelf/Book.java) - Book data model
+- [BookNode.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/bookshelf/BookNode.java) - LinkedList node
+- [BookList.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/bookshelf/BookList.java) - Custom LinkedList with add/remove operations
+- [Library.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/bookshelf/Library.java) - HashMap-based genre catalog
+- [LibrarySystem.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/bookshelf/LibrarySystem.java) - Demo application
+
+**Features:**
+- Genre-wise book organization using HashMap
+- Dynamic book insertion/deletion using LinkedList
+- Efficient book borrowing and returning
+- Catalog display by genre
+
+#### 2. BrowserBuddy - Tab History Manager
+**Data Structures Used:** Doubly LinkedList + Stack
+**Location:** [broswerbuddy](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/browserbuddy)
+
+**Features:**
+- Page visit tracking with doubly linked list
+- Back and forward navigation
+- Closed tab storage using stack (LIFO)
+- Reopen recently closed tabs
+- Memory-efficient tab management
+
+#### 3. AmbulanceRoute - Emergency Patient Navigation
+**Data Structures Used:** Circular LinkedList
+**Location:** [ambulance](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/ambulanceroute)
+
+**Features:**
+- Circular hospital unit routing (Emergency  Radiology  Surgery  ICU  Emergency)
+- Find nearest available unit using circular traversal
+- Unit availability tracking
+- Dynamic unit removal for maintenance
+- Patient redirection in circular path
+
+**Key Concepts Learned:**
+- Combining multiple data structures for complex problems
+- HashMap for O(1) lookup with LinkedList for ordering
+- Doubly LinkedList for bidirectional traversal
+- Stack for LIFO operations (closed tabs)
+- Circular LinkedList for round-robin scheduling
+- Real-world application design patterns
+- Memory-efficient pointer-based navigation
+
+---
+
+### Day 7 : Advanced Scenario-Based DSA Problems
+
+**Topics Covered:**
+- Queue + HashMap + PriorityQueue
+- Doubly LinkedList navigation systems
+- Stack-based undo/redo mechanisms
+- Circular LinkedList + Queue combinations
+
+**Scenario-Based Projects:** [scenario-based](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com)
+
+1. **CallCenter** - Customer Queue Manager (Queue + HashMap + PriorityQueue)
+2. **TrainCompanion** - Compartment Navigation System (Doubly LinkedList)
+3. **TextEditor** - Undo/Redo Functionality (Stack)
+4. **TrafficManager** - Roundabout Vehicle Flow (Circular LinkedList + Queue)
+
+---
+
+### Day 8 : Complex Scenario-Based DSA Projects
+
+**Topics Covered:**
+- Singly Linked List for delivery tracking
+- Stack + HashMap for exam navigation
+- Queue + HashMap for checkout systems
+
+**Projects Implemented:** [scenario-based](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com)
+
+1. **[SmartCheckout](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/smartcheckout)** - Multi-Counter Checkout System
+   - Queue-based customer management
+   - HashMap cart implementation
+   - Store inventory tracking with HashMap
+
+2. **[ParcelTracker](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/parcelTracker)** - Delivery Chain Management
+   - Singly Linked List for stage tracking
+   - Custom checkpoints and timestamps
+   - Lost/missing parcel handling
+
+3. **[ExamProctor](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/examproctor)** - Online Exam Review System
+   - Stack-based navigation tracking
+   - HashMap for answer storage
+   - Auto-scoring function with polymorphism
+
+---
