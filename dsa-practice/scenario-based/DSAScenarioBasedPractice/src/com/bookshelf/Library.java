@@ -59,4 +59,19 @@ public class Library {
             }
         }
     }
+
+	public void addBook(String string, String string2, String string3) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void borrowBook(String string, String string2) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void returnBook(String string, String string2, String string3) {
+		// TODO Auto-generated method stub
+		
+	}
 }
