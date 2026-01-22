@@ -506,3 +506,29 @@ java-oops-practice/
    - Auto-scoring function with polymorphism
 
 ---
+
+**Projects Completed:**
+
+**25. EcoWing Bird Sanctuary – Wildlife Management System**
+- Base Class: Bird (abstract with common properties)
+- Interfaces: Flyable, Swimmable with abstract methods
+- Derived Classes: Eagle, Sparrow, Duck, Seagull, Penguin, Kiwi, Ostrich
+- Polymorphism: fly() and swim() called dynamically based on bird type
+- Inheritance: All birds extend Bird class with specific abilities
+- Encapsulation: Protected bird attributes with getter methods
+
+**26. PayXpress – Utility Bill Payment System**
+- Base Class: Bill (type, amount, dueDate, isPaid)
+- Interface: IPayable with pay() and sendReminder()
+- Derived Classes: ElectricityBill, WaterBill, InternetBill
+- Operators: Late fee calculation (baseAmount + penalty)
+- Encapsulation: Payment status modification through methods only
+- Polymorphism: Different reminder messages per utility type
+
+🔗 **Code Links:**  
+👉 [Bird Sanctuary](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src/com/birdsanctuaryapp)  
+👉 [PayXpress](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src/com/payxpressapp)
+
+---
+
+
