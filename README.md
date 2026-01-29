@@ -594,3 +594,9 @@ java-oops-practice/
 
 
 ---
+
+
+### Day 12 (19-Jan-2026): Final Scenario based dsa Problems and oop problems
+-  Scenario based dsa Problems  👉   https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com
+-  
+oop scenario based problems  👉 (https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src/com/addressbookapp)
