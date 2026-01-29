@@ -570,3 +570,17 @@ java-oops-practice/
    - Product tracking and organization
 
 ---
+
+### Day 10 (16-Jan-2026): Scenario based dsa Problems and generics 
+
+**Topics Covered:**
+- Generics in Java
+- Type safety and reusability
+- Scenario-based applications
+- Sorting algorithms in real-world contexts
+  <br>
+**Generics** 👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/gcr-codebase/JavaCollectionConcepts/src/com/generics
+
+ **DSA Scenario based problems**  👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com
+
+ ---
