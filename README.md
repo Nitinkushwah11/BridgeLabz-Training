@@ -586,3 +586,11 @@ java-oops-practice/
  👉     https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com
 
  ---
+
+
+### Day 11 (17-Jan-2026): Scenario based dsa Problems and oop problems
+-  Scenario based dsa Problems  👉  https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com
+- oop scenario based problems  👉  https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src/com
+
+
+---
