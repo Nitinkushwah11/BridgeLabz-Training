@@ -579,8 +579,10 @@ java-oops-practice/
 - Scenario-based applications
 - Sorting algorithms in real-world contexts
   <br>
-**Generics** 👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/gcr-codebase/JavaCollectionConcepts/src/com/generics
+**Generics**
+  👉    https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/gcr-codebase/JavaCollectionConcepts/src/com/generics
 
- **DSA Scenario based problems**  👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com
+ **DSA Scenario based problems**  
+ 👉     https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com
 
  ---
