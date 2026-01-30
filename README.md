@@ -292,3 +292,44 @@
    - Auto-scoring function with polymorphism
 
 ---
+
+
+### Day 9 (15-Jan-2026): Sorting Algorithms - Scenario-Based Applications
+
+**Topics Covered:**
+- Merge Sort, Insertion Sort, Bubble Sort, Quick Sort
+- Real-world sorting scenarios
+- Algorithm selection based on data characteristics
+
+**Projects Implemented:** [scenario-based](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com)
+
+1. **[ZipZipMart](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/zipzipmart)** - Sales Reporting System (Merge Sort)
+   - Sorts sales by date and amount
+   - Efficient O(n log n) performance
+
+2. **[ExamCell](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/examcell)** - Student Rank Generator (Merge Sort)
+   - Merges scores from multiple test centers
+   - State-level rank list generation
+
+3. **[RoboWarehouse](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/robowarehouse)** - Shelf Loading Robot (Insertion Sort)
+   - Dynamic package insertion by weight
+   - Maintains sorted order for balance
+
+4. **[CinemaHouse](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/cinemahouse)** - Movie Time Sorting (Bubble Sort)
+   - Simple showtime scheduling
+   - Ideal for small datasets
+
+5. **[CropMonitor](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/cropmonitor)** - Sensor Data Ordering (Quick Sort)
+   - Fast sorting of drone sensor data
+   - Timestamp-based partitioning
+
+6. **[HospitalQueue](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/hospitalqueue)** - Emergency Priority System
+   - Patient queue management
+
+7. **[EventManager](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/eventmanager)** - Event Scheduling System
+   - Event organization and management
+
+8. **[SmartShelf](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com/examcell)** - Inventory Management
+   - Product tracking and organization
+
+---
