@@ -361,6 +361,15 @@
 
 --- 
 
+### 19 Jan 2026: Continued dsa scenario based problems on sorting algorithms
+- Focused on solving complex sorting problems with real-life scenarios.
+- Implemented and tested various sorting algorithms for efficiency.
+- 
+
+<br>
+**Links:** 👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com
+
+---
 
 
 
