@@ -342,6 +342,12 @@
 
 ---
 
+### 17 Jan 2026 : Learned additional problems on sorting with real life based scenario
+- Implemented various sorting algorithms to solve practical problems.
+- Focused on optimizing performance based on data size and structure.
+- Gained deeper insights into algorithm efficiency and application.
+
+**Link:** 👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com
 
 
 
