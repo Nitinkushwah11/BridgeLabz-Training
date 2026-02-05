@@ -33,3 +33,12 @@ This week focuses on the new features introduced in Java 8, including Lambda Exp
 
 
 ---
+
+### 2-Feb-2026: solved scanrio based on Lambda and Stream API
+- Practice problems focusing on Lambda Expressions and Stream API
+- Review key concepts covered during the week
+- Address any questions or doubts
+
+**Link:** [solved scanrio based on Lambda and Stream API](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/Java8Scenariobased/src/com)
+
+---
