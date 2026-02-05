@@ -14,3 +14,13 @@ This week focuses on the new features introduced in Java 8, including Lambda Exp
 
 **Lambda Expressions** 👉: https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/lambdaexpression
 ---
+
+### 30-Jan-2026: Stream API and Collections
+- Introduction to Stream API
+- Creating Streams from Collections
+- Intermediate and terminal operations
+- Working with Collections using Streams
+
+<a href="https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/streams"> ***Stream Programs***</a>
+
+---
