@@ -1,1 +1,113 @@
 # BridgeLabz-Training
+
+# BridgeLabz-Training
+
+## Week 4: Java Collections, Streams
+
+---
+
+### Day 1 : 16-jan-2025 Java Genrics
+- Introduction to Generics
+- Generic Classes and Methods
+- Bounded Type Parameters
+- Wildcards in Generics
+- Generic Collections
+> #### Practice Problems:
+> 1. Smart Warehouse Management System: Manage and display different item types in a warehouse using generics and wildcards.
+> 2. Dynamic Online Marketplace: Handle various product categories and apply discounts safely with generic classes and methods.
+> 3. Multi-Level University Course Management System: Organize courses with different evaluation types using bounded generics and wildcards.
+> 4. Personalized Meal Plan Generator: Generate and validate meal plans for various dietary categories using generic methods and classes.
+> 5. AI-Driven Resume Screening System: Process and screen resumes for multiple job roles with type-safe generics and wildcard methods.
+
+
+👍 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/gcr-codebase/JavaCollectionConcepts/src/com/generics
+
+---
+
+### 20-Jan-2026: Java Collections frameworks
+- Introduction to Java Collections Framework
+- List, Set, Map Interfaces and their Implementations
+- Queue and Deque Interfaces
+- Collections Utility Class
+- Iterators and Enhanced for Loop
+- Sorting and Searching Collections
+
+<br>
+<b>LINK :=></b> https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/gcr-codebase/JavaCollectionConcepts/src/com
+
+---
+
+### 21-Jan-2026: Java Streams and File I/O
+- File Handling with Streams
+- Buffered Streams for Performance
+- Object Serialization and Deserialization
+- ByteArray Streams
+- Data Streams for Primitive Types
+- Piped Streams for Inter-Thread Communication
+- Reading and Processing Large Files
+- Word Frequency Analysis
+
+> #### Practice Problems:
+> 1. [FileReadWrite.java](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/gcr-codebase/JavaCollectionConcepts/src/com/streams/filecopy) - Basic file read and write operations using FileInputStream and FileOutputStream
+
+<br>
+<b>LINK :=></b> https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/gcr-codebase/JavaCollectionConcepts/src/com/streams
+---
+
+### 22-Jan-2026: Exception Handling and REGEX
+- Introduction to Exception Handling
+- Types of Exceptions
+- Try-Catch Blocks
+- Finally Block
+- REGEX Basics
+- Pattern and Matcher Classes
+
+**LINK:**
+- **Exception Handling:** https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/gcr-codebase/JavaCollectionConcepts/src/com/exceptions
+
+- **REGEX:** https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/gcr-codebase/JavaCollectionConcepts/src/com/regex
+---
+
+### 23-Jan-2026: JUnit Testing and Scenario-Based Problems
+- JUnit 5 Basics
+- Writing Test Cases
+- Annotations (@Test, @BeforeEach, @AfterEach, @BeforeAll, @AfterAll)
+- Assertions (assertEquals, assertTrue, assertFalse, assertThrows)
+- Test-Driven Development Practice
+
+> #### JUnit Practice Problems:
+> 1. BankAccount - Test deposit, withdraw, and balance operations
+> 2. PasswordValidator - Test password strength validation
+> 3. TemperatureConverter - Test Celsius to Fahrenheit conversions
+> 4. DateFormatter - Test date format transformations
+> 5. UserRegistration - Test user registration validation
+> 6. Calculator - Test basic arithmetic operations
+> 7. Database Connectivity - Test database connection scenarios
+> 8. File Processing - Test file read and write operations
+> 9. String Utilities - Test string manipulation methods
+> 10. Long Running Process - Test time-consuming operations
+
+**LINK:** https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/gcr-codebase/JavaCollectionConcepts/src/com/junit
+
+---
+
+> #### Real-World Scenario-Based Problems (Collections + I/O + Regex):
+> 1. **ResumeAnalyzer** - Smart resume filtering system that reads resumes from folder, extracts contact details using regex, indexes candidates by email, and sorts by keyword match count
+> 2. **TravelLog** - Trip organizer using object serialization to save/load travel experiences, search cities with regex, filter trips by duration, and track unique countries visited
+> 3. **FeedbackGuru** - Survey analyzer that reads feedback files, extracts ratings with regex, categorizes feedback (Positive/Neutral/Negative) using generics and collections
+> 4. **CodeRepoCleaner** - Java file scanner that analyzes code repository, detects naming violations with regex, categorizes files (Valid/Warnings/Errors), and filters by size
+> 5. **ExamScanner** - Answer sheet validator that parses CSV files, validates format with regex, scores answers against answer key, and ranks students using PriorityQueue
+
+**LINK:** https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/scenario-based/ScenarioPracticeCollection/src/com
+---
+
+### 24-Jan-2026: Java Reflection and Annotations
+- **Java Reflection API** - Dynamic class inspection, field/method access, private member manipulation, dynamic object creation, annotation retrieval, custom object mappers, JSON generation, dependency injection, and proxy patterns (12 problems covering basic to advanced concepts)
+- **Custom Annotations** - Created custom annotations with runtime retention including @LogExecutionTime, @MaxLength, @RoleAllowed, @JsonField, @CacheResult, @BugReport (repeatable), @ImportantMethod, @Todo, and @TaskInfo with practical reflection-based implementations
+
+**LINK:** 
+- **Reflection:** https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/gcr-codebase/JavaCollectionConcepts/src/com/reflection
+- **Annotations:** https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/gcr-codebase/JavaCollectionConcepts/src/com/annotations
+
+---
+
