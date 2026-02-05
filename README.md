@@ -615,3 +615,46 @@ oop scenario based problems  👉 (https://github.com/Nitinkushwah11/BridgeLabz-
 -  
 
 ---
+
+### 22-Jan-2026: Exception Handling and Regular Expressions (Regex)
+
+**Topics Covered:**
+- Exception Handling: try-catch, multiple catch blocks, finally, throw vs throws
+- Custom Exceptions and Exception Propagation
+- Regular Expressions for validation and text manipulation
+- Pattern matching and extraction
+
+**Exception Handling Programs:** 👉 [View Code](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/gcr-codebase/JavaCollectionConcepts/src/com/exceptions)
+- Multiple Catch Blocks - Handles ArrayIndexOutOfBounds and NullPointer exceptions
+- Try-With-Resources - Auto-closes file resources (BufferedReader)
+- Throw vs Throws - Exception propagation in methods
+- Finally Block - Demonstrates finally execution
+- Exception Propagation - Exception flow through method calls
+- Nested Try-Catch - Handles exceptions at different levels
+- Custom Exception - InsufficientBalanceException for bank transactions
+- Bank Transaction System - Withdrawal validation with custom exceptions
+
+**Regular Expression Programs:** 👉 [View Code](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/gcr-codebase/JavaCollectionConcepts/src/com/regex)
+
+*Validation:*
+- Username validation (5-15 chars, starts with letter)
+- License plate format (2 letters + 4 digits)
+- Hex color code (#RRGGBB)
+- IPv4 address (0-255.0-255.0-255.0-255)
+- Credit card (Visa/MasterCard)
+- Social Security Number (XXX-XX-XXXX)
+
+*Extraction:*
+- Email addresses from text
+- Capitalized words
+- Dates (dd/mm/yyyy format)
+- HTTP/HTTPS links
+- Programming language names
+- Currency values
+- Repeating consecutive words
+
+*Modification:*
+- Replace multiple spaces with single space
+- Censor bad words with asterisks
+
+---
