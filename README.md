@@ -42,3 +42,12 @@ This week focuses on the new features introduced in Java 8, including Lambda Exp
 **Link:** [solved scanrio based on Lambda and Stream API](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/Java8Scenariobased/src/com)
 
 ---
+
+
+### 4-Feb-2026: Solved Scenario Based on Stream API
+- Solved data manipualation and acess for different problems using Stream API
+- Review and discuss solutions
+<br>
+**Link:** [Solved Scenario Based on Stream API](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/Java8Scenariobased/src/com)
+
+---
