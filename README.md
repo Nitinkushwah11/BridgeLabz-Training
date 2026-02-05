@@ -796,3 +796,11 @@ oop scenario based problems  👉 (https://github.com/Nitinkushwah11/BridgeLabz-
 **Lambda Expressions** 👉: https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8_programming_practice/src/com/methodreferences
 
 ---
+
+### 30-Jan-2026: Stream API and Optional Class
+- Introduction to Stream API
+- Creating Streams from Collections and Arrays
+- Intermediate and Terminal Operations
+**LINK:**  https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/streams
+
+---
