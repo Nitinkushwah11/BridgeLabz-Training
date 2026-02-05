@@ -658,3 +658,26 @@ oop scenario based problems  👉 (https://github.com/Nitinkushwah11/BridgeLabz-
 - Censor bad words with asterisks
 
 ---
+
+### 23-Jan-2026: JUnit Testing and Scenario-Based Problems
+- JUnit 5 Basics
+- Writing Test Cases
+- Annotations (@Test, @BeforeEach, @AfterEach, @BeforeAll, @AfterAll)
+- Assertions (assertEquals, assertTrue, assertFalse, assertThrows)
+- Test-Driven Development Practice
+
+> #### JUnit Practice Problems:
+> 1. BankAccount - Test deposit, withdraw, and balance operations
+> 2. PasswordValidator - Test password strength validation
+> 3. TemperatureConverter - Test Celsius to Fahrenheit conversions
+> 4. DateFormatter - Test date format transformations
+> 5. UserRegistration - Test user registration validation
+> 6. Calculator - Test basic arithmetic operations
+> 7. Database Connectivity - Test database connection scenarios
+> 8. File Processing - Test file read and write operations
+> 9. String Utilities - Test string manipulation methods
+> 10. Long Running Process - Test time-consuming operations
+
+**LINK:** https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/gcr-codebase/JavaCollectionConcepts/src/com/junit
+
+---
