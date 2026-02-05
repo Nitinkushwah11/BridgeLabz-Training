@@ -703,3 +703,18 @@ oop scenario based problems  👉 (https://github.com/Nitinkushwah11/BridgeLabz-
 - **Reflection:**  https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/gcr-codebase/JavaCollectionConcepts/src/com/reflection
 - **Annotations:** https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/gcr-codebase/JavaCollectionConcepts/src/com/annotations
 ---
+
+### 25-Jan-2026: Introduction to Java IO and CSV handling of files
+- Overview of Java IO package
+- Understanding InputStream and OutputStream
+- Reading from and writing to files using FileInputStream and FileOutputStream
+- Introduction to CSV file format
+- Using BufferedReader and BufferedWriter for efficient file operations
+- Practical exercise: Reading from and writing to a CSV file
+  - OPENCSV library usage for CSV handling
+  <br>
+
+  **LINK:** https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams/gcr-codebase/JavaIOStreams/src/com/csvhandling
+
+
+---
