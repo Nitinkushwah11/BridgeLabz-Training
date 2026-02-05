@@ -600,3 +600,11 @@ java-oops-practice/
 -  Scenario based dsa Problems  👉   https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com
 -  
 oop scenario based problems  👉 (https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedPractice/src/com/addressbookapp)
+
+---
+
+### 20-Jan-2026: Final Day - Dsa Scenario based and collections
+-  Scenario based dsa Problems  👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-dsa-practice/dsa-practice/scenario-based/DSAScenarioBasedPractice/src/com
+-  Collections in java  👉  https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/gcr-codebase/JavaCollectionConcepts/src
+
+--- 
