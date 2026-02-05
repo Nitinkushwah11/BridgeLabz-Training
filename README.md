@@ -804,3 +804,11 @@ oop scenario based problems  👉 (https://github.com/Nitinkushwah11/BridgeLabz-
 **LINK:**  https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/streams
 
 ---
+
+### 31-Jan-2026: Scenario based Practice Problems
+- Solve various practice problems using Lambda Expressions and Stream API
+- Focus on real-world scenarios to apply the concepts learned
+- Enhance problem-solving skills using Java 8 features
+**Links to Practice Problems:** [Scenario based Practice Problems](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/Java8Scenariobased/src/com)
+
+---
