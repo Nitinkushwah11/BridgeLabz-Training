@@ -781,3 +781,18 @@ oop scenario based problems  👉 (https://github.com/Nitinkushwah11/BridgeLabz-
 **LINK:** https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams/scenario-based/ScenarioPracticeIOStreams/src/com
 
   ---
+
+## WEEK 6 - JAVA 8 PROGRAMMING PRACTICE
+### 29-Jan-2026: Lambda Expression and Functional Interfaces
+- Introduction to Lambda Expressions
+- Syntax and structure of Lambda Expressions
+- Functional Interfaces in Java
+- Commonly used Functional Interfaces (Predicate, Function, Consumer, Supplier)
+
+**Functional Interface:** https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java8-programming-practice/java8_programming_practice/src/com/functionalinterface
+
+**Method References:** [method references](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/methodreferences)
+
+**Lambda Expressions** 👉: https://github.com/Abhishek-Pandey-git/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8_programming_practice/src/com/methodreferences
+
+---
