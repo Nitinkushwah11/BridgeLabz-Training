@@ -681,3 +681,16 @@ oop scenario based problems  👉 (https://github.com/Nitinkushwah11/BridgeLabz-
 **LINK:** https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/gcr-codebase/JavaCollectionConcepts/src/com/junit
 
 ---
+
+---
+
+> #### Real-World Scenario-Based Problems (Collections + I/O + Regex):
+> 1. **ResumeAnalyzer** - Smart resume filtering system that reads resumes from folder, extracts contact details using regex, indexes candidates by email, and sorts by keyword match count
+> 2. **TravelLog** - Trip organizer using object serialization to save/load travel experiences, search cities with regex, filter trips by duration, and track unique countries visited
+> 3. **FeedbackGuru** - Survey analyzer that reads feedback files, extracts ratings with regex, categorizes feedback (Positive/Neutral/Negative) using generics and collections
+> 4. **CodeRepoCleaner** - Java file scanner that analyzes code repository, detects naming violations with regex, categorizes files (Valid/Warnings/Errors), and filters by size
+> 5. **ExamScanner** - Answer sheet validator that parses CSV files, validates format with regex, scores answers against answer key, and ranks students using PriorityQueue
+
+**LINK:** https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/scenario-based/ScenarioPracticeCollection/src/com
+
+---
