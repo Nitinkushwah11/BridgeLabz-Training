@@ -694,3 +694,12 @@ oop scenario based problems  👉 (https://github.com/Nitinkushwah11/BridgeLabz-
 **LINK:** https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/scenario-based/ScenarioPracticeCollection/src/com
 
 ---
+
+### 24-Jan-2026: Java Reflection and Annotations
+- **Java Reflection API** - Dynamic class inspection, field/method access, private member manipulation, dynamic object creation, annotation retrieval, custom object mappers, JSON generation, dependency injection, and proxy patterns (12 problems covering basic to advanced concepts)
+- **Custom Annotations** - Created custom annotations with runtime retention including @LogExecutionTime, @MaxLength, @RoleAllowed, @JsonField, @CacheResult, @BugReport (repeatable), @ImportantMethod, @Todo, and @TaskInfo with practical reflection-based implementations
+
+**LINK:** 
+- **Reflection:**  https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/gcr-codebase/JavaCollectionConcepts/src/com/reflection
+- **Annotations:** https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-collection-practice/java-collection/gcr-codebase/JavaCollectionConcepts/src/com/annotations
+---
