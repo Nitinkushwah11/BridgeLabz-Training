@@ -812,3 +812,17 @@ oop scenario based problems  👉 (https://github.com/Nitinkushwah11/BridgeLabz-
 **Links to Practice Problems:** [Scenario based Practice Problems](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/Java8Scenariobased/src/com)
 
 ---
+
+## DESIGN PATTERNS
+
+### 03-Feb-2026: SOLID principles - Library Management System
+Implemented a comprehensive Library Management System demonstrating SOLID principles:
+- Single Responsibility Principle: Separate classes for Book, Member, and Library operations
+- Open/Closed Principle: Extendable classes for different types of library items (Books, Mag    azines)azines, DVDs)
+- Liskov Substitution Principle: Derived classes (EBook, AudioBook) can replace base class (Book) without affecting functionality
+- Interface Segregation Principle: Specific interfaces for borrowing, returning, and searching items
+- Dependency Inversion Principle: High-level modules depend on abstractions, not on concrete implementations
+
+🔗 **Code Link:**  
+👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/library
+---
