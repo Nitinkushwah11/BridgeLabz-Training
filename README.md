@@ -824,5 +824,6 @@ Implemented a comprehensive Library Management System demonstrating SOLID princi
 - Dependency Inversion Principle: High-level modules depend on abstractions, not on concrete implementations
 
 🔗 **Code Link:**  
-👉 https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/library
+👉   https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/library
+
 ---
