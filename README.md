@@ -846,3 +846,15 @@ Implemented a comprehensive Library Management System demonstrating SOLID princi
 - **Link:** [Solved problem based on Collectors](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com)
 
 ---
+
+
+### 6-Feb-2026: Solved problem based on Multithreading and Stream API
+- Practice problems on multi threading
+- **Link:** [Solved problem based on Multithreading and Stream API](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/multithreading)
+
+- Practice problems on Stream API logical problems using Stream API
+- Review and discuss solutions
+- **LINK:** [Solved logical problems with Stream API](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/Java8Scenariobased/src/com/functionalinterface)   
+
+---
+
