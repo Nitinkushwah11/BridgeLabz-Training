@@ -858,3 +858,23 @@ Implemented a comprehensive Library Management System demonstrating SOLID princi
 
 ---
 
+## 7-Feb-2026: practiced mysql query programs for patient management and Stream API problems
+- Created a database named `patient_management`.
+- Created a table named `patients`  `visits` , `appointments` with appropriate columns.
+- Inserted sample data into the tables.
+<br>
+**LINK** : [MySQL Practice](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/scenario-based/mysql_jdbc_scenario_practice/src/mysql_practice)
+
+**Link** [Stream API problems](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/Java8Scenariobased/src/com)
+
+---
+
+## 8 -Feb-2026: practiced mysql query programs for hospital management
+- Created a database named `hospital_management`.
+- Created tables named `doctors`, `patients`, `appointments` with appropriate columns.
+
+<br> 
+**LINK** : [MySQL Practice]( https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/scenario-based/mysql_jdbc_scenario_practice/src/mysql_practice )
+
+---
+
