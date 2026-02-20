@@ -878,3 +878,23 @@ Implemented a comprehensive Library Management System demonstrating SOLID princi
 
 ---
 
+## 11-Feb-2026: JDBC Programming - Transaction Management and Library System
+- Implemented Banking System with JDBC transaction management
+  - Transfer money between accounts using transactions
+  - Check account balance
+  - View transaction history
+  - Proper commit and rollback handling
+
+- Built Library Management System with advanced features
+  - Book inventory management
+  - Student borrowing records
+  - Fine calculation for overdue books
+  - Search functionality with multiple filters (title, author, category)
+
+<br>
+**LINK - Transaction Management** : [Banking System](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/scenario-based/mysql_jdbc_scenario_practice/src/mysql_practice)
+
+<br>
+**LINK - Library Management** : [Library System](https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/scenario-based/mysql_jdbc_scenario_practice/src/mysql_practice)
+
+----
