@@ -827,3 +827,14 @@ Implemented a comprehensive Library Management System demonstrating SOLID princi
 👉   https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/library
 
 ---
+
+### 04-Feb-2026: Senario based on Stream API and Lambda Expressions
+- Developed real-world applications using Stream API and Lambda Expressions
+- Focused on data processing, filtering, and transformation tasks
+- Enhanced code readability and maintainability using functional programming concepts
+
+<br>
+<a href="https://github.com/Nitinkushwah11/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/Java8Scenariobased/src/com/functionalinterface">**Code Link**</a>
+
+
+---
